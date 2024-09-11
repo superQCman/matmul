@@ -1,0 +1,201 @@
+Execution starts at 2024-9-11  15:42:49
+CWD: /home/qc/Chiplet_Heterogeneous_newVersion/benchmark/matmul_changed/proc_r1_p1_t9
+Exec:  /home/qc/Chiplet_Heterogeneous_newVersion/snipersim/run-sniper -- /home/qc/Chiplet_Heterogeneous_newVersion/benchmark/matmul_changed/bin/matmul_c 3 3
+[SNIPER] Start
+[SNIPER] --------------------------------------------------------------------------------
+[SNIPER] Sniper using SIFT/trace-driven frontend
+[SNIPER] Running full application in DETAILED mode
+[SNIPER] --------------------------------------------------------------------------------
+[SNIPER] Enabling performance models
+[INTERCMD] CYCLE 0
+[SNIPER] Setting instrumentation mode to DETAILED
+Enter Sniper sendMessage
+[INTERCMD] SEND 3 3 0 0
+[RESPONSE][INTERCMD] RESULT 1 .././buffer3_3_0_0
+Open pipe file .././buffer3_3_0_0.
+Write 80000 B to .././buffer3_3_0_0.
+[INTERCMD] WRITE 3835854 3 3 0 0 80000 0
+[RESPONSE][INTERCMD] SYNC 3837105
+Enter Sniper sendMessage
+[INTERCMD] SEND 3 3 0 0
+[RESPONSE][INTERCMD] RESULT 1 .././buffer3_3_0_0
+Write 80000 B to .././buffer3_3_0_0.
+[INTERCMD] WRITE 3837672 3 3 0 0 80000 0
+[RESPONSE][INTERCMD] SYNC 3838923
+Enter Sniper sendMessage
+[INTERCMD] SEND 3 3 0 1
+[RESPONSE][INTERCMD] RESULT 1 .././buffer3_3_0_1
+Open pipe file .././buffer3_3_0_1.
+Write 80000 B to .././buffer3_3_0_1.
+[INTERCMD] WRITE 3839204 3 3 0 1 80000 0
+[RESPONSE][INTERCMD] SYNC 3840455
+Enter Sniper sendMessage
+[INTERCMD] SEND 3 3 0 1
+[RESPONSE][INTERCMD] RESULT 1 .././buffer3_3_0_1
+Write 80000 B to .././buffer3_3_0_1.
+[INTERCMD] WRITE 3840532 3 3 0 1 80000 0
+[RESPONSE][INTERCMD] SYNC 3841783
+Enter Sniper sendMessage
+[INTERCMD] SEND 3 3 0 2
+[RESPONSE][INTERCMD] RESULT 1 .././buffer3_3_0_2
+Open pipe file .././buffer3_3_0_2.
+Write 80000 B to .././buffer3_3_0_2.
+[INTERCMD] WRITE 3841865 3 3 0 2 80000 0
+[RESPONSE][INTERCMD] SYNC 3843116
+Enter Sniper sendMessage
+[INTERCMD] SEND 3 3 0 2
+[RESPONSE][INTERCMD] RESULT 1 .././buffer3_3_0_2
+Write 80000 B to .././buffer3_3_0_2.
+[INTERCMD] WRITE 3843192 3 3 0 2 80000 0
+[RESPONSE][INTERCMD] SYNC 3844443
+Enter Sniper sendMessage
+[INTERCMD] SEND 3 3 1 0
+[RESPONSE][INTERCMD] RESULT 1 .././buffer3_3_1_0
+Open pipe file .././buffer3_3_1_0.
+Write 80000 B to .././buffer3_3_1_0.
+[INTERCMD] WRITE 3844545 3 3 1 0 80000 0
+[RESPONSE][INTERCMD] SYNC 3845796
+Enter Sniper sendMessage
+[INTERCMD] SEND 3 3 1 0
+[RESPONSE][INTERCMD] RESULT 1 .././buffer3_3_1_0
+Write 80000 B to .././buffer3_3_1_0.
+[INTERCMD] WRITE 3845853 3 3 1 0 80000 0
+[RESPONSE][INTERCMD] SYNC 3847104
+Enter Sniper sendMessage
+[INTERCMD] SEND 3 3 1 1
+[RESPONSE][INTERCMD] RESULT 1 .././buffer3_3_1_1
+Open pipe file .././buffer3_3_1_1.
+Write 80000 B to .././buffer3_3_1_1.
+[INTERCMD] WRITE 3847184 3 3 1 1 80000 0
+[RESPONSE][INTERCMD] SYNC 3848435
+Enter Sniper sendMessage
+[INTERCMD] SEND 3 3 1 1
+[RESPONSE][INTERCMD] RESULT 1 .././buffer3_3_1_1
+Write 80000 B to .././buffer3_3_1_1.
+[INTERCMD] WRITE 3848513 3 3 1 1 80000 0
+[RESPONSE][INTERCMD] SYNC 3849764
+Enter Sniper sendMessage
+[INTERCMD] SEND 3 3 1 2
+[RESPONSE][INTERCMD] RESULT 1 .././buffer3_3_1_2
+Open pipe file .././buffer3_3_1_2.
+Write 80000 B to .././buffer3_3_1_2.
+[INTERCMD] WRITE 3849844 3 3 1 2 80000 0
+[RESPONSE][INTERCMD] SYNC 3851095
+Enter Sniper sendMessage
+[INTERCMD] SEND 3 3 1 2
+[RESPONSE][INTERCMD] RESULT 1 .././buffer3_3_1_2
+Write 80000 B to .././buffer3_3_1_2.
+[INTERCMD] WRITE 3851172 3 3 1 2 80000 0
+[RESPONSE][INTERCMD] SYNC 3852423
+Enter Sniper sendMessage
+[INTERCMD] SEND 3 3 2 0
+[RESPONSE][INTERCMD] RESULT 1 .././buffer3_3_2_0
+Open pipe file .././buffer3_3_2_0.
+Write 80000 B to .././buffer3_3_2_0.
+[INTERCMD] WRITE 3852508 3 3 2 0 80000 0
+[RESPONSE][INTERCMD] SYNC 3853759
+Enter Sniper sendMessage
+[INTERCMD] SEND 3 3 2 0
+[RESPONSE][INTERCMD] RESULT 1 .././buffer3_3_2_0
+Write 80000 B to .././buffer3_3_2_0.
+[INTERCMD] WRITE 3853832 3 3 2 0 80000 0
+[RESPONSE][INTERCMD] SYNC 3855083
+Enter Sniper sendMessage
+[INTERCMD] SEND 3 3 2 1
+[RESPONSE][INTERCMD] RESULT 1 .././buffer3_3_2_1
+Open pipe file .././buffer3_3_2_1.
+Write 80000 B to .././buffer3_3_2_1.
+[INTERCMD] WRITE 3855164 3 3 2 1 80000 0
+[RESPONSE][INTERCMD] SYNC 3856415
+Enter Sniper sendMessage
+[INTERCMD] SEND 3 3 2 1
+[RESPONSE][INTERCMD] RESULT 1 .././buffer3_3_2_1
+Write 80000 B to .././buffer3_3_2_1.
+[INTERCMD] WRITE 3856493 3 3 2 1 80000 0
+[RESPONSE][INTERCMD] SYNC 3857744
+Enter Sniper sendMessage
+[INTERCMD] SEND 3 3 2 2
+[RESPONSE][INTERCMD] RESULT 1 .././buffer3_3_2_2
+Open pipe file .././buffer3_3_2_2.
+Write 80000 B to .././buffer3_3_2_2.
+[INTERCMD] WRITE 3857824 3 3 2 2 80000 0
+[RESPONSE][INTERCMD] SYNC 3859075
+Enter Sniper sendMessage
+[INTERCMD] SEND 3 3 2 2
+[RESPONSE][INTERCMD] RESULT 1 .././buffer3_3_2_2
+Write 80000 B to .././buffer3_3_2_2.
+[INTERCMD] WRITE 3859153 3 3 2 2 80000 0
+[RESPONSE][INTERCMD] SYNC 3860404
+Enter Sniper receiveMessage
+[INTERCMD] RECEIVE 0 0 3 3
+[RESPONSE][INTERCMD] RESULT 1 .././buffer0_0_3_3
+Open pipe file .././buffer0_0_3_3.
+Read 80000 B from .././buffer0_0_3_3.
+[INTERCMD] READ 3860871 0 0 3 3 80000 0
+[RESPONSE][INTERCMD] SYNC 3863286
+Enter Sniper receiveMessage
+[INTERCMD] RECEIVE 0 1 3 3
+[RESPONSE][INTERCMD] RESULT 1 .././buffer0_1_3_3
+Open pipe file .././buffer0_1_3_3.
+Read 80000 B from .././buffer0_1_3_3.
+[INTERCMD] READ 3863412 0 1 3 3 80000 0
+[RESPONSE][INTERCMD] SYNC 3866146
+Enter Sniper receiveMessage
+[INTERCMD] RECEIVE 0 2 3 3
+[RESPONSE][INTERCMD] RESULT 1 .././buffer0_2_3_3
+Open pipe file .././buffer0_2_3_3.
+Read 80000 B from .././buffer0_2_3_3.
+[INTERCMD] READ 3866338 0 2 3 3 80000 0
+[RESPONSE][INTERCMD] SYNC 3868806
+Enter Sniper receiveMessage
+[INTERCMD] RECEIVE 1 0 3 3
+[RESPONSE][INTERCMD] RESULT 1 .././buffer1_0_3_3
+Open pipe file .././buffer1_0_3_3.
+Read 80000 B from .././buffer1_0_3_3.
+[INTERCMD] READ 3869017 1 0 3 3 80000 0
+[RESPONSE][INTERCMD] SYNC 3871467
+Enter Sniper receiveMessage
+[INTERCMD] RECEIVE 1 1 3 3
+[RESPONSE][INTERCMD] RESULT 1 .././buffer1_1_3_3
+Open pipe file .././buffer1_1_3_3.
+Read 80000 B from .././buffer1_1_3_3.
+[INTERCMD] READ 3871657 1 1 3 3 80000 0
+[RESPONSE][INTERCMD] SYNC 3874127
+Enter Sniper receiveMessage
+[INTERCMD] RECEIVE 1 2 3 3
+[RESPONSE][INTERCMD] RESULT 1 .././buffer1_2_3_3
+Open pipe file .././buffer1_2_3_3.
+Read 80000 B from .././buffer1_2_3_3.
+[INTERCMD] READ 3874319 1 2 3 3 80000 0
+[RESPONSE][INTERCMD] SYNC 3876786
+Enter Sniper receiveMessage
+[INTERCMD] RECEIVE 2 0 3 3
+[RESPONSE][INTERCMD] RESULT 1 .././buffer2_0_3_3
+Open pipe file .././buffer2_0_3_3.
+Read 80000 B from .././buffer2_0_3_3.
+[INTERCMD] READ 3876980 2 0 3 3 80000 0
+[RESPONSE][INTERCMD] SYNC 3879446
+Enter Sniper receiveMessage
+[INTERCMD] RECEIVE 2 1 3 3
+[RESPONSE][INTERCMD] RESULT 1 .././buffer2_1_3_3
+Open pipe file .././buffer2_1_3_3.
+Read 80000 B from .././buffer2_1_3_3.
+[INTERCMD] READ 3879638 2 1 3 3 80000 0
+[RESPONSE][INTERCMD] SYNC 3882107
+Enter Sniper receiveMessage
+[INTERCMD] RECEIVE 2 2 3 3
+[RESPONSE][INTERCMD] RESULT 1 .././buffer2_2_3_3
+Open pipe file .././buffer2_2_3_3.
+Read 80000 B from .././buffer2_2_3_3.
+[INTERCMD] READ 3882299 2 2 3 3 80000 0
+[RESPONSE][INTERCMD] SYNC 3884767
+[TRACE:0] -- DONE --
+[RECORD-TRACE] Using the Pin frontend (sift/recorder)
+[SNIPER] Disabling performance models
+[SNIPER] Leaving ROI after 42.76 seconds
+[INTERCMD] CYCLE 3920274
+[SNIPER] Simulated 7.0M instructions, 3.9M cycles, 1.77 IPC
+[SNIPER] Simulation speed 162.7 KIPS (162.7 KIPS / target core - 6145.7ns/instr)
+[SNIPER] Setting instrumentation mode to FAST_FORWARD
+[SNIPER] End
+[SNIPER] Elapsed time: 43.16 seconds
